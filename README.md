@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @laveshgo
-- 👀 I’m interested in SDE intern
-- 🌱 I’m currently learning C++ and DSA
-- 📫 How to reach me  :  email me at lavesh21goyal@gmail.com
+- 👋 Hi, I’m Lavesh Goyal
+- 🎓 I’m a student at IIT Roorkee
+- 👀 I’m interested in developer intern
+- 🌱 I know FrontEnd (HTML, CSS,JS, React.js, Jquery), Backend (Node.js, Express.js, EJS, APIs), and Data Structures and Algorithms(in C++)
+- 📫 How to reach me:  email me at lavesh21goyal@gmail.com
 - 📝 You can check my resume in this repository
 
 <!---
